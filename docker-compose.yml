@@ -1,0 +1,5 @@
+services:
+  python-service:
+    build:
+      context : .
+    image: python-app:latest
