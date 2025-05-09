@@ -1,5 +1,3 @@
 services:
   python-service:
-    build:
-      context : .
     image: sayandeep94/python-app:latest
